@@ -19,11 +19,12 @@ NeuralNetwork is a C++ project that integrates a multi-layer perceptron (MLP) ne
 
 <p align="left">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fb%2F73-738895_sfml-logo-sfml-icon-clipart.png&f=1&nofb=1&ipt=37dea4a9d226a1cf90ed363fcb1c6c299cf2d3fb76c201bf1f534c8c4e894e36&ipo=images" alt="SFML" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake" height="50">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresources.jetbrains.com%2Fstorage%2Fproducts%2Fcompany%2Fbrand%2Flogos%2FCLion_icon.png&f=1&nofb=1" alt="CLion" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fratfactor.com%2Fmisc%2Fmingw64%2Flogo04-2.png&f=1&nofb=1&ipt=0677c47d712c645ee8b71a8101c81166a3876d3a69481ce58cb7bbc15d3172b6&ipo=images" alt="MinGWx64" height="50">
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fratfactor.com%2Fmisc%2Fmingw64%2Flogo01.png&f=1&nofb=1&ipt=9663013f20d2fd271028a47115e275e51121baf16c4235bbcab72b26f2bbf33f&ipo=images" alt="MinGWw64" height="50">
 </p>
 
 ### Code Statistics:
@@ -42,12 +43,12 @@ The current code in the **miscellaneous** folder is not originally authored by m
 
 ## Getting Started
 
-Follow these instructions to set up the project using CLion, MinGWx64, and SFML.
+Follow these instructions to set up the project using CLion, MinGWw64, and SFML.
 
 ### Prerequisites
 
 - **CLion**: Ensure CLion is installed on your system. [Download CLion](https://www.jetbrains.com/clion/download/)
-- **MinGWx64**: Install the MinGWx64 compiler. [Download MinGW](http://mingw-w64.org/doku.php)
+- **MinGWw64**: Install the MinGWw64 compiler. [Download MinGW](http://mingw-w64.org/doku.php)
 - **SFML**: Download and install SFML, a library for multimedia applications. [Download SFML](https://www.sfml-dev.org/download.php)
 
 ### Installation
